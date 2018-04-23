@@ -49,4 +49,5 @@
 - consume：消费，消耗；consumer：消费者
 - duplicity：奸诈、欺骗(n.)；duplicate：复制、复印
 - firm：公司，商行，坚固的；firmware：固件、韧体
-- fellow伙伴，同伙的；follow：跟随
+- fellow：伙伴，同伙的；follow：跟随
+- refuge：避难所，庇护；refugee：逃亡者，难民
