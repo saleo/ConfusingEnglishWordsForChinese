@@ -1,0 +1,52 @@
+- effect:：a noun;；affect： a verb;
+- cause：导致,引起；clause：从句
+- speech：演说； speed：速度/加速
+- advice：建议，忠告，a noun；advise：建议，a verb；advance：提高(verb)；发展(noun)；advanced：高阶的(adjective)；avoid：避免
+- text：信息；taxi：的士；tax：税
+- precede: vt. & vi. 在…之前, 先于；proceed：前进，进行，继续下去
+- team：团队；term：术语／学期／条款
+- carb：碳水化合物；crab：螃蟹
+- content：内容；constant：常量；contain：包含
+- dress：裙子；dressing：调味品
+- struct：structure的abbr.；struck：打击（strike的过去式）
+- serve：为...服务；deserve：应得，应受（理应得到）
+- cartoon：卡通；carton：纸板箱，纸板盒
+- divide：分开，划分；divorce：离婚
+- conserve：节约；concern：涉及到(verb)，关心(noun)
+- emphasis：强调(noun)；emphatic：/ɪmˈfætɪk/ 强调的(adj.)
+- collection：集合；collocation：/kɒlə'keɪʃ(ə)n/  词语的搭配，排列
+- status： /'steɪtəs/  身份，状况，情形；state：国家，州；陈述、声明(statement的动词)；statue/'stætjuː/ 雕塑
+- intersect /ɪntə'sekt/：相交，交叉，横切；interaction：相互作用，合作，配合
+- snake：蛇 /sneɪk/  ；snack：小吃 /snæk/  
+- neural:神经的；natural：自然的
+- socialize:交际(verb)；sociable:爱交际的(adj.)
+- popular: 流行的； population: 人口,  The world's aging population
+- courage: 勇气、胆量；encourage: 鼓励、激励
+- wood：木头；wool：羊毛
+- pretension:自命不凡；自称；虚荣；potential：潜力，有潜力的
+- instance：实体，例子；instant：瞬间，立即，立即的，瞬间的
+- proceed：前进，继续下去；process：处理，加工，过程，经过特殊加工处理的
+- reveal:显示，露出。reveal contents：打开目录；review：回顾，检查（读音很类似）
+- recite：背诵；regret：后悔
+- urgency：紧急的；emergency：紧急情况
+- natural：自然的；neutral：中立的
+- strange: 奇怪的；strength：长处、力量
+- Signal:信号；single: 单一的；单个，单程/ 选出
+- thirty:三十；thrifty:节约的
+- premise:前提，假期，做出前提；promise：承诺，许诺
+- adore:爱慕, 崇拜；adopt：领养
+- chip 芯片； chap 皲裂，小伙子
+- sample 样本、取样；simple：简单
+- internet：互联网；intranet：局域网
+- employer：雇主；employee：雇员；employment：雇佣/就业
+- typical：典型的；atypical：非典型的；uncharacteristic：不典型的
+- proceed：前进；process：进程，过程。
+- salute：敬礼；solute：溶质，溶解物
+- criticize：批评(v)；critic：批评家；criticism：批评(n.)
+- crowd：拥挤/人群；crowded：拥挤的；cower：畏缩，退缩
+- dearth：缺乏，不足(n.)；death：死亡
+- vacuum：真空(的)；vacuous：空洞的、空虚的
+- consume：消费，消耗；consumer：消费者
+- duplicity：奸诈、欺骗(n.)；duplicate：复制、复印
+- firm：公司，商行，坚固的；firmware：固件、韧体
+- fellow伙伴，同伙的；follow：跟随
